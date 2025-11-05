@@ -1,4 +1,4 @@
-# CSB2025 — Practical Material for the Computational Systems Biology course, Fall 2025, session 8
+# CSB2025 - Practical Material for the Computational Systems Biology course, Fall 2025, session 8
 
 This repository contains the practical material for the Computational Systems Biology (CSB 2025) course. It includes a Jupyter notebook used in the hands-on sessions, example models in GINsim format, and setup instructions to reproduce the analyses.
 
@@ -92,9 +92,9 @@ Notes and tips:
 
 The notebook contains several hands-on tasks. Highlights:
 
-- Task 1: Inspect the PKN model and compute stable states.
-- Task 2: Run MaBoSS simulations on the PKN model with different initial conditions and compare results.
-- Task 3: Simulate mutants (KO/ON perturbations) on the PKN model with MaBoSS and compare with published results.
+- **Task 1**: Inspect the PKN model and compute stable states.
+- **Task 2**: Run MaBoSS simulations on the PKN model with different initial conditions and compare results.
+- **Task 3**: Simulate mutants (KO/ON perturbations) on the PKN model with MaBoSS and compare with published results.
 
 Follow the cell comments and hints inside `CSB2025_practica.ipynb` to complete the exercises.
 
