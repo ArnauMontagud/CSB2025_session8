@@ -1,4 +1,4 @@
-# CSB2025 — Practical Material for the Computational Systems Biology course, Fall 2025
+# CSB2025 — Practical Material for the Computational Systems Biology course, Fall 2025, session 8
 
 This repository contains the practical material for the Computational Systems Biology (CSB 2025) course. It includes a Jupyter notebook used in the hands-on sessions, example models in GINsim format, and setup instructions to reproduce the analyses.
 
