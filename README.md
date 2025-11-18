@@ -107,5 +107,10 @@ This repository is released under the BSD 3-Clause License. See `LICENSE` for de
 
 If you find issues or need help, open an issue in the repository or contact the course instructor.
 
-## Launch this repo in a binder server
+## Launch this repo in a Binder server
+
+Click the badge below to launch the notebook in a free, cloud-based Binder environment (no installation needed, but with limited resources and a 10-minute inactivity timeout):
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ArnauMontagud/CSB2025/HEAD?urlpath=%2Fdoc%2Ftree%2FCSB2025_practica.ipynb)
+
+**Note on Binder (as of November 2025):** Binder sessions have access to up to 2 GB of RAM. Sessions shut down after 10 minutes of inactivity but can run for up to 6 hours. See [Binder usage guidelines](https://mybinder.readthedocs.io/en/latest/user-guidelines.html) for details.
